@@ -4,6 +4,8 @@ import {ej05} from './ej05.js';
 import {ej07} from './ej07.js';
 import {ej09} from './ej09.js';
 import {ej11} from './ej11.js';
+import {ej13} from './ej13.js';
+import {ej15} from './ej15.js';
 
 console.log("Ejercicio 1: ");
 ej01();
@@ -27,6 +29,14 @@ console.log('============================');
 
 console.log("Ejercicio 11: ");
 ej11();
+console.log('============================');
+
+console.log("Ejercicio 13: ");
+ej13();
+console.log('============================');
+
+console.log("Ejercicio 15: ");
+ej15();
 console.log('============================');
 
 console.log("hola mundo");
